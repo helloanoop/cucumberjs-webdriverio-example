@@ -1,0 +1,17 @@
+
+# Don't check auto-generated stuff into git
+allure-results/
+coverage/
+junit.xml
+node_modules/
+jest_*/
+stats.json
+bundle-analysis.json
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea/
+
+# VSCode
+.vscode/launch.json
