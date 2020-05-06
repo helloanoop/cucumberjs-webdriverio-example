@@ -5,6 +5,7 @@ An implementation example using CucumberJs & WebdriverIO
 ### Dependencies
 * Node >= v12
 * Npm >= v6
+* Python >= v2.7
 
 ### Installation
 ```bash

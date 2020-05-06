@@ -1,5 +1,5 @@
 @google
-Feature: Check Google test
+Feature: Check Google title
     Background:
         Given I open the url "https://www.google.com"
 
